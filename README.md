@@ -6,6 +6,7 @@
 
 project-root/
 │
+|
 ├── data/                         
 │                     
 │
