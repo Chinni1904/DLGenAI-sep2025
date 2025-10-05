@@ -4,8 +4,6 @@
 
 # Folder Structure
 
-
-root/
 ├── data/                                          
 ├── scripts/                      
 ├── notebooks/                              
