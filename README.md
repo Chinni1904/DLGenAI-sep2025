@@ -4,17 +4,9 @@
 
 # Folder Structure
 
-project-root/
-│
-|
-├── data/                         
-│                     
-│
+
+root/
+├── data/                                          
 ├── scripts/                      
-│                     
-│
-├── notebooks/                    
-│   
-│                        
-│            
+├── notebooks/                              
 └── .gitignore                    
